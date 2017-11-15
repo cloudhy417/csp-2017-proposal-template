@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex csp-paper"] 1510729878 "csp-paper.aux" "csp-paper.bbl" "csp-paper" 1510729878
+["bibtex csp-paper"] 1510730196 "csp-paper.aux" "csp-paper.bbl" "csp-paper" 1510730196
   "./IEEEtran.bst" 1510729628 59246 7bf05f0abb22f315c81a40a033a648dd ""
-  "csp-paper.aux" 1510729878 1083 39af6558c6cd8cba59e0c58f6bfa0d36 ""
+  "csp-paper.aux" 1510730158 1140 2d9d656ed68e613a9f182d73999f319e ""
   "egbib.bib" 1510729628 34828 97711206820eeb5a2204de8acb4fe92a ""
   (generated)
   "csp-paper.bbl"
   "csp-paper.blg"
-["pdflatex"] 1510729878 "/Users/wuyilun/Desktop/proposal/ieee-template/csp-paper.tex" "csp-paper.pdf" "csp-paper" 1510729878
-  "/Users/wuyilun/Desktop/proposal/ieee-template/csp-paper.tex" 1510729754 6133 98c2c38d530efe7b8063b11865abd309 ""
+["pdflatex"] 1510730196 "/Users/wuyilun/Desktop/proposal/ieee-template/csp-paper.tex" "csp-paper.pdf" "csp-paper" 1510730196
+  "/Users/wuyilun/Desktop/proposal/ieee-template/csp-paper.tex" 1510730196 7282 2c4634b6638a74df95aaaa8a96dec7a4 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1480098688 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -76,13 +76,13 @@
   "/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1495593472 2350277 a699055bee05bf8a40b0504752487295 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1510250217 4129593 f0871ad2ca6148d271ad851baa888b79 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "csp-paper.aux" 1510729878 1083 39af6558c6cd8cba59e0c58f6bfa0d36 ""
-  "csp-paper.bbl" 1510729878 768 ed66ba357da193e047e72f0133ce0775 "bibtex csp-paper"
-  "csp-paper.tex" 1510729754 6133 98c2c38d530efe7b8063b11865abd309 ""
+  "csp-paper.aux" 1510730158 1140 2d9d656ed68e613a9f182d73999f319e ""
+  "csp-paper.bbl" 1510730196 768 ed66ba357da193e047e72f0133ce0775 "bibtex csp-paper"
+  "csp-paper.tex" 1510730196 7282 2c4634b6638a74df95aaaa8a96dec7a4 ""
   "ieeeconf.cls" 1510729628 202167 7b37f8353df61c9733ed46143eff807a ""
   "images/csp2017.png" 1510382499 60877 242ce2914b50ac6cd1f3de7e3e64f1d5 ""
   "images/duckiebot.jpg" 1510388944 287872 a09feaaf76595e4cb6fca390f9064ada ""
   (generated)
+  "csp-paper.log"
   "csp-paper.pdf"
   "csp-paper.aux"
-  "csp-paper.log"
