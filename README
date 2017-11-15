@@ -1,16 +1,22 @@
--------INSTALLATION-------
-Latex should be installed in the given img
-In case you want to install on other machines
-Install Latex
-$ sudo apt-get install texlive-full
+Porject was cloned from https://github.com/Duckietown-NCTU/csp2017-proposal.git
 
--------CREATE YOU OWN PROPOSAL-------
-$ git clone https://github.com/Duckietown-NCTU/csp2017-proposal.git
-$ cd ~/Proposal
-$ cp -r ieee-template/ [your_name]
+## Requirement
+Latex should be installed.
+Install Latex
+```
+$ sudo apt-get install texlive-full
+```
+
+## Start
+```
+$ mv ieee-template [your_name]
 $ cd [your_name]
-$ subl csp-paper.tex
-	revise the template to your own proposal
+```
+Then you can start to edit csp-paper.tex
+
+## Build
+```
 $ make
 $ xdg-open csp-paper.pdf
 	to review your proposal in pdf format
+```
